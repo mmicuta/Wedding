@@ -1,0 +1,88 @@
+@font-face {
+    font-family: 'ostrich-black';
+    src: url('../fonts/ostrich-black.eot');
+    src: url('../fonts/ostrich-black.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/ostrich-black.woff') format('woff'),
+         url('../fonts/ostrich-black.ttf') format('truetype'),
+         url('../fonts/ostrich-black.svg#bebas_neueregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+	}
+
+@font-face {
+    font-family: 'ostrich-light';
+    src: url('../fonts/ostrich-light.eot');
+    src: url('../fonts/ostrich-light.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/ostrich-light.woff') format('woff'),
+         url('../fonts/ostrich-light.ttf') format('truetype'),
+         url('../fonts/ostrich-light.svg#bebas_neueregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+	}
+
+
+
+
+.bold {
+	font-family: 'ostrich-black';
+	text-align: center;
+}
+
+.bold:hover {
+	color: rgba(255,242,143,1);
+}
+
+.light {
+	font-family: 'ostrich-light';
+	text-align: center;
+}
+
+h1 {
+	font-size: 150px;
+	line-height: 150px;
+}
+
+h2 {
+	font-size: 93px;
+	line-height: 93px;
+}
+
+h3 {
+	font-size: 57px;
+	line-height: 57px;
+}
+
+a {
+	text-decoration: none;
+}
+
+a:visited, a:hover, a:active {
+	color: rgba(255,242,143,1)
+}
+
+.pink {
+	color: rgba(255,184,220,1);
+}
+
+.blue {
+	color: rgba(92,213,229,1);
+}
+
+.yellow {
+	color: rgba(255,242,143,1);
+}
+
+.spacing1{
+	padding: 80px 20px;
+}
+
+.spacing2 {
+	padding: 20px 20px;
+}
+
+.spacing3 {
+	padding: 80px 20px 20px 20px;
+}
+
+
+
