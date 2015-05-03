@@ -61,7 +61,11 @@ h4 {
 	vertical-align: middle;
 }
 
-
+.textlink {
+	text-decoration: underline;
+	cursor: pointer;
+	color: black;
+}
 
 a {
 	text-decoration: none;
